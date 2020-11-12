@@ -33,7 +33,7 @@ img.logo {
 a{ color:#5F69FF 
 }
 
-{ .circle {
-	border-radius: 50%;
-	width: 200px;
-	height: 200px; 
+<ul> {
+   color: black;
+   font-size: 50px;
+   }
